@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lei @RayLFluid
+- 👋 Hi, I’m @RayLFluid
 - 👀 I’m interested in CFD, Control System & Robotics
 - 🌱 I’m currently learning MSc CFD at Cranfield University
 
