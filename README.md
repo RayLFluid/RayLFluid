@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RayLFluid
-- 👀 I’m interested in CFD, Control System & Robotics
-- 🌱 I’m currently learning MSc CFD at Cranfield University
+- 👋 Hi, I’m @RayLFluid. A research assistant in cryogenic system at Cranfield University. 
+- 👀 I’m interested in CFD, Aircraft Design, Control System & Robotics
+- 🌱 I’ve graduates with MEng Mechanical Engineering degree from University of Bristol & MSc CFD from Cranfield University.
 
 <!---
 RayLFluid/RayLFluid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
